@@ -46,7 +46,7 @@ button {
     height: 50px;
 }
 
-btn{
+.btn{
     display: flex;
     flex-direction: row;
     justify-content: center;
